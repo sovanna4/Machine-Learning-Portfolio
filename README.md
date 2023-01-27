@@ -1,2 +1,2 @@
 # Machine-Learning-Portfolio
-Portfolio to showcase machine learning assignments and projects
+A repository to showcase the "Intro to Machine Learning" course assignments and projects I've worked on
