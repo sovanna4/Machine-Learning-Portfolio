@@ -10,3 +10,6 @@ In this [R notebook](regression1.Rmd) we cover linear regression - found [here](
 
 # ML Algorithms from Scratch
 In this project we develop a logistic regression model - found [here](log_reg.cpp). Additionally we cover the naive bayes model - found [here](naive_bayes.cpp). You can find our analyses in this [pdf](MLAlgorithmsfromScratch.pdf).
+
+# ML with sklearn
+In this assignment I gained experience with sklearn while working in Google's Colaboratory. You can find my notebook [here](ML_with_sklearn.ipynb) and the respective pdf to that notebook [here](ML_with_sklearn.pdf)
