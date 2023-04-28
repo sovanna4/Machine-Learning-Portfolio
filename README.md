@@ -11,5 +11,11 @@ In this [R notebook](regression1.Rmd) we cover linear regression - found [here](
 # ML Algorithms from Scratch
 In this project we develop a logistic regression model - found [here](log_reg.cpp). Additionally we cover the naive bayes model - found [here](naive_bayes.cpp). You can find our analyses in this [pdf](MLAlgorithmsfromScratch.pdf).
 
+# Similarity and Ensemble
+In this project I worked with a team of 5 to gain experience in similarity models kNN and decision trees. I was responsible for the classificaiton notebook using logistic regression, kNN, and decision trees. The pdf to that notebook can be found [here](Similarity_and_Ensemble_Classification.pdf)
+
 # ML with sklearn
 In this assignment I gained experience with sklearn while working in Google's Colaboratory. You can find my notebook [here](ML_with_sklearn.ipynb) and the respective pdf to that notebook [here](ML_with_sklearn.pdf)
+
+# Image Classification
+In this assignment I build three models to try and classify images as different chess pieces. The cnn model can be found [here](image-classification-cnn.ipynb), the sequential model [here](image-classification-sequential.ipynb), and finally the pre-trained model [here](image-classification-pre-trained.ipynb)
