@@ -17,8 +17,5 @@ In this project I worked with a team of 5 to gain experience in similarity model
 # ML with sklearn
 In this assignment I gained experience with sklearn while working in Google's Colaboratory. You can find my notebook [here](ML_with_sklearn.ipynb) and the respective pdf to that notebook [here](ML_with_sklearn.pdf)
 
-# Image Classification
-In this assignment I build three models to try and classify images as different chess pieces. The cnn model can be found [here](image-classification-cnn.ipynb), the sequential model [here](image-classification-sequential.ipynb), and finally the pre-trained model [here](image-classification-pre-trained.ipynb)
-
 # Portfolio Wrap-Up
 While in this machine learning course, I have gained valuable experience working on projects using R, Python, and C++. I've been introduced to supervised and unsupervised learning, and deep learning. Moreover, I have been able to work with datasets ranging from small to large, cleaning and preparing it for my own analysis. I've been able to visualize data through graphs, charts, and more. So overall, I am very pleased with what I have learned while in this class and am extremely appreciative that I was able to get some hands-on experience through projects. After going through this course, I now understand the importance of machine learning and how essential it is in decision making, identifying patterns, making predictions, etc. I look forward to one day contributing to machine learning solutions in my future career.
